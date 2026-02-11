@@ -1,0 +1,41 @@
+
+
+{
+    "site":[
+        {
+            "nom":"hichem",
+            "description":"ceci est pour hichem",
+            "visibility":"PUBLIC"
+        },
+        {
+             "nom":"hayat",
+            "description":"ceci est pour hayat",
+            "visibility":"PUBLIC"
+
+
+
+        },
+        {
+             "nom":"yanis",
+            "description":"ceci est pour yanis",
+            "visibility":"PUBLIC"
+
+        },
+        {
+             "nom":"hany",
+            "description":"ceci est pour hany",
+            "visibility":"PUBLIC"
+
+        }
+
+
+
+
+
+    ]
+
+
+
+
+
+}
