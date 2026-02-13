@@ -16,6 +16,6 @@ test('creation de nouvelle utisateur',async ({page})=>{
     await connection.connecter('admin','12HT6i8o$$')
 
     //await creeUtilisateur.CreeUser('hanytaalbi','hany','yami@gmail.com','hanyt','123456789','123456789')
-    //await Monsite.cree('hanysite','Public')
-    await userSite.ajouter('hayat','hichem','Manager')
+    await Monsite.cree('lafer','Public','ceci est rien')
+    //await userSite.ajouter('hayat','hichem','Manager')
 })
